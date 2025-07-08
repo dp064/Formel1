@@ -1,0 +1,17 @@
+F1 - Codebuch-2
+CODEBUCH;
+Wert;Kommentar
+;
+nodelist;
+id;Initialien
+name;vollständiger Name
+type;"1=Fahrer; 2= Formel2 Teams; 3=Formel3 Teams; 4=Nachwuchsprogramme"
+debut_year;Jahr des Formel-1-Debüts
+reentry;Jahr des Wiedereintritts
+edgelist;
+from;Akademie-ID
+to;Fahrer-ID
+weight;"6=einzige; 4=zwei; 2=mehrere; 1=unabhängig"
+;
+;
+NA;definiert fehlende Werte, bei der Datenerhebung das Feld einfach leer lassen, R rechnet NAs (missing values) automatisch raus..
